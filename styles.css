@@ -140,7 +140,7 @@ p { margin: 0 0 1em; color: var(--text); }
   inset: 0;
   background:
     linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 60%, #000 100%);
-  background-image: url('assets/hero.jpg');
+  background-image: url('assets/hero.png');
   background-size: cover;
   background-position: center;
   filter: grayscale(100%) contrast(1.05);
