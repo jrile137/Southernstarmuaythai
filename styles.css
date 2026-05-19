@@ -82,6 +82,14 @@ p { margin: 0 0 1em; color: var(--text); }
 }
 .nav__brand { display: flex; align-items: center; }
 .nav__logo { height: 44px; width: auto; }
+.nav__brand-text {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.18em;
+  color: var(--text);
+  text-transform: uppercase;
+}
 
 .nav__menu {
   display: flex;
